@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Mateo
+title: Zarir Engineer
 description:
 logo: # You can add own logo. For example '/images/logo.png'.
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
@@ -11,11 +11,11 @@ url: "https://singhaidotnish.github.io" # the base hostname & protocol for your 
 #-------------------------------
 # Author Settings
 author:
-  name: Cameron Wilson
+  name: Zarir Engineer
   image: '/images/15.jpg'
   avatar: '/images/01.jpg'
-  job: Designer
-  bio: I like being at the center of events, being free and enjoying every moment.
+  job: Realty Estate Agent
+  bio: I like fulfilling your home needs, as that brings to you freedom and you enjoy every moment.
 
 
 #-------------------------------
