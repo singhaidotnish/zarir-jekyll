@@ -7,6 +7,9 @@ logo: # You can add own logo. For example '/images/logo.png'.
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 url: "https://singhaidotnish.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+#-------------------------------
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.26.1"
 
 #-------------------------------
 # Author Settings
